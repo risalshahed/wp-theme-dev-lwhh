@@ -1,0 +1,6 @@
+- add template markup in index.php
+- bootstraping
+- write css in style.css
+- add support for bootstrap
+- chane markup to theme code
+- split into multiple files
